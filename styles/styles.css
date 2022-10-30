@@ -5,10 +5,25 @@ h1{
     color: darksalmon;
 }
 li{
-    list-style-type: disc;
+    color:lightblue;
 }
 li.pro2
 {
     color:lightpink;
     font-weight: bold;
 }
+li em{
+    color: rebeccapurple;
+  }
+h1 + p {
+    font-size: 200%;
+  }
+a:link {
+    color:black;
+}
+a:visited {
+    color:pink;
+}
+a:hover {
+    text-decoration: none;
+  }
