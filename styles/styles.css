@@ -1,0 +1,14 @@
+p{
+    color:aqua;
+}
+h1{
+    color: darksalmon;
+}
+li{
+    list-style-type: disc;
+}
+li.pro2
+{
+    color:lightpink;
+    font-weight: bold;
+}
